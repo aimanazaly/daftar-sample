@@ -1,0 +1,6 @@
+{
+  "name": "RubberLab LIMS",
+  "description": "Sistem Pengurusan Makmal Ujian Getah Asli & Sintetik (LIMS) dengan dwi-peranan Boss & Staff, pemantauan masa operasi, inventori kimia, pengurusan cuti, dan analisis Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
